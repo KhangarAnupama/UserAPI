@@ -1,4 +1,4 @@
-package com.anupama.ks.user.dto;
+package com.anupama.ks.user.dao;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;

@@ -1,4 +1,4 @@
-package com.anupama.ks.user.dto;
+package com.anupama.ks.user.dao;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

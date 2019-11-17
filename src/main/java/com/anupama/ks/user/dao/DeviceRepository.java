@@ -1,4 +1,4 @@
-package com.anupama.ks.user.dto;
+package com.anupama.ks.user.dao;
 
 
 import javax.transaction.Transactional;
