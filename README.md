@@ -41,7 +41,7 @@ It performed the following operations.
 
 --------------------------------------------------------------------------------------------------------
 
-Due to time concerns some parts are incomplete.
+Due to time concerns following parts are incomplete.
 
 1) Instead of Kafka, I am using a normal file to read and write data.
 2) InfluxDB implementation remains, currently I am storing it in postgresDB.
@@ -49,8 +49,7 @@ Due to time concerns some parts are incomplete.
 4) Code formatting 
 
 I am working on it, will notify you of its progress. 
-- Setup geofences
-- Send notification if the breach happens.
+
 
 
 
