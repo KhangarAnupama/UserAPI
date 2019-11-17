@@ -1,4 +1,4 @@
-#KidsTrack 
+# KidsTrack 
 KidsTrack, Its complete solution to help there parent to track there childern location using the wearable watches. 
 
 #Application Architecture
@@ -42,7 +42,7 @@ It performed the following operations.
 
 --------------------------------------------------------------------------------------------------------
 
-#TODO Things will be added in coming days..
+# TODO: Things to be added..
 
 1) Making Kafka operational (I am using a normal file to read and write data..)
 2) InfluxDB implementation remains, currently I am storing data in postgresDB.
