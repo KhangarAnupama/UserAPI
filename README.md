@@ -38,6 +38,17 @@ It performed the following operations.
 - Activate a device for kids
 - Deactivate the device
 - Send the current location of device
+
+--------------------------------------------------------------------------------------------------------
+
+Due to time concerns some parts are incomplete.
+
+1) Instead of Kafka, I am using a normal file to read and write data.
+2) InfluxDB implementation remains, currently I am storing it in postgresDB.
+3) Implementation of APIs like Setup geofences and Send notification if the breach happens is remaining.
+4) Code formatting 
+
+I am working on it, will notify you of its progress. 
 - Setup geofences
 - Send notification if the breach happens.
 
