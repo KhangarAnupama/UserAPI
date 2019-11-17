@@ -1,4 +1,4 @@
-# UserAPI
+# UserAPIs
 Service contains user APIs
 
 #Block diagram of project
@@ -41,10 +41,10 @@ It performed the following operations.
 
 --------------------------------------------------------------------------------------------------------
 
-Due to time concerns following parts are incomplete.
+Due to time concerns following tasks are remains.
 
 1) Instead of Kafka, I am using a normal file to read and write data.
-2) InfluxDB implementation remains, currently I am storing it in postgresDB.
+2) InfluxDB implementation remains, currently I am storing data in postgresDB.
 3) Implementation of APIs like Setup geofences and Send notification if the breach happens is remaining.
 4) Code formatting 
 
