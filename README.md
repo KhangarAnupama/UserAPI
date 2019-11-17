@@ -5,7 +5,7 @@ Service contains user APIs
 
 ![alt text](https://github.com/KhangarAnupama/UserAPI/blob/master/src/main/resources/BlockDiagram.png)
 
-As shown in the diagram,
+As shown in the diagram, 
 
 1. I have been divided the project into a microservices as follows.
 
