@@ -1,13 +1,13 @@
 # KidsTrack 
 KidsTrack, Its complete solution to help there parent to track there childern location using the wearable watches. 
 
-#Application Architecture
+### Application Architecture
 
 ![alt text](https://github.com/KhangarAnupama/UserAPI/blob/master/src/main/resources/BlockDiagram.png)
 
-Above architecture is designed with scalablility and reliability in the mind. This design can support more than 1 lack of watches easily. This as a different vertical (responsibilities) data collection, data ingestion, real time event generation and notification, data storing into the scalable persistence storage and should be easy to query for read or analytical operations. 
+Above architecture is designed with scalablility and reliability in the mind. This design can support more than 1 lack of watches easily. It has a different verticals (responsibilities) which cab be scaled and replaced with one another tools and technologies. Starting from the data collection, data ingestion, real time event generation and notification, data storing into the scalable persistence storage and should be easy to query for read or analytical operations. 
 
-Following are the correspondent components with there GitHub repository link. 
+Following are the components with there GitHub repository link. 
 
 A) Data Simulator
 B) Data Producer 
